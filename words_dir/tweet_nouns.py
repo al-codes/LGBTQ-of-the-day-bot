@@ -115,7 +115,9 @@ nouns = [
     'bloomer',
     'blue jeans 👖',
     'boot 🥾',
+    'button-up shirt',
     'caftan',
+    'cape',
     'cravat',
     'crop top',
     'dungaree',
@@ -127,9 +129,12 @@ nouns = [
     'glove',
     'gown',
     'haltertop',
+    'halter vest',
     'handbag 👛',
+    'hanky',
     'head scarf',
-    'headphone 🎧',
+    'headphone',
+    'platform heel',
     'helmet',
     'hijab',
     'hoodie',
@@ -148,6 +153,7 @@ nouns = [
     'sneaker',
     'sock 🧦',
     'sunglasses 🕶️',
+    'tank top',
     't-shirt 👕',
     'top hat 🎩',
     'turtle neck',
@@ -321,6 +327,7 @@ nouns = [
     'answering machine',
     'betamax',
     'cassette player',
+    'CD-ROM',
     'clicky mechanical keyboard',
     'CRT computer monitor',
     'dial-up modem',
@@ -348,6 +355,7 @@ nouns = [
     # video game consoles
     'Adventure Vision',
     'Atari',
+    'ColecoVision',
     'Commodore 64',
     'Dreamcast',
     'GameBoy',
@@ -394,6 +402,7 @@ nouns = [
     'Earth 🌎',
     'flower 🌹',
     'hill',
+    'hot spring',
     'island 🏝️',
     'lake',
     'meadow',
@@ -445,6 +454,7 @@ nouns = [
     'marker'
     'marker',
     'notebook',
+    'overhead projector',
     'paint',
     'pen',
     'pencil case',
@@ -496,6 +506,7 @@ nouns = [
     'blurry photo of feet from an @OnlyFans subscription',
     'cake that perfectly resembles an intricate knitted blanket',
     'castle',
+    'cat daddy',
     'child asking "why" for the fiftieth time',
     'color',
     'graphic novel memoir',
@@ -558,6 +569,7 @@ nouns = [
     'lip gloss',
     'mirror',
     'mouthwash',
+    'pumice stone'
     'razor',
     'red lipstick',
     'sanitary napkin',
@@ -619,6 +631,8 @@ nouns = [
     'Faux Fur Sandals',
     'Bucket Hats',
     'Shrunken Bags',
+    'French tuck',
+    
 
     # queer things
     '@autostraddle article',
@@ -626,6 +640,7 @@ nouns = [
     'drag king',
     'drag queen',
     'drag brunch',
+    'drag show',
     'french cuff',
     'gogo boy',
     'newest issue of @ftmmagazine',
@@ -635,4 +650,5 @@ nouns = [
     'tight-rolled pant',
     'wall plastered with varying pride flags',
     '@autostraddle article',
+    
 ]
